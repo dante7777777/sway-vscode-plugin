@@ -31,7 +31,6 @@ _Coming Soon_
 
 1. Install the [Fuel toolchain](https://fuellabs.github.io/fuelup/master/installation/index.html).
 1. Ensure `forc-lsp` is installed correctly by entering `forc-lsp --version` into your terminal.
-1. Install the [Sway VSCode plugin](https://marketplace.visualstudio.com/items?itemName=FuelLabs.sway-vscode-plugin).
 
 ## Configuration
 
